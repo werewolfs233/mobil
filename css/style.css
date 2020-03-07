@@ -845,13 +845,13 @@ input:disabled + label:before {
 
     .form_button{
         margin-top: 5%;
-        margin-right: 68%;
+        margin-right: 64%;
         padding: 2% 7%;
         font-size: 17px
     }
 
     label{
-        margin-left: 7%;
+        margin-left: 12%;
         font-size: 16px;
         padding: 10px 0 0 0;
 
